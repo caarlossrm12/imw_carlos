@@ -39,7 +39,7 @@ echo "<script language=javascript> alert(\"Please Enter Correct values.\");</scr
 <table style="border:groove #00FF99">
  
 <tr>
-<td style="background-color:turquoise; color:black; font-family:'Times New Roman'">Enter Number</td>
+<td style="background-color:turquoise; color:black; font-family:'Times New Roman'">Enter Number Hola soy tu compañero fran</td>
 <td colspan="1">
 <input name="first_value" type="text" style="color:red"/></td>
 </tr>
